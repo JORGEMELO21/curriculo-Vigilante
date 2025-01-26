@@ -109,7 +109,16 @@
             </ul>
         </section>
     </main>
+
+    <footer id="rodape">
+        <p>&copy; 2025 Jorge Melo de Miranda Freitas. Todos os direitos reservados.</p>
+    </footer>
 </body>
+
+</html>
+
+
+
 
 </html>
 
